@@ -1,35 +1,55 @@
-# Magdalena System 🏨
+# Magdalena System 🏡
 
-**Magdalena** es un sistema de gestión de habitaciones desarrollado en Python con PyQt5, pensado para facilitar el control de disponibilidad, ocupación y mantenimiento en hoteles o residencias.
+## English 🇬🇧
 
-## 🚀 Características
+**Magdalena System** is a hotel room management application built using Python and PyQt5. It allows you to track the availability, type, state, and time remaining for each room in a user-friendly and visually appealing interface.
 
-- Interfaz elegante y fácil de usar
-- Inicio de sesión seguro
-- Tabla en tiempo real con actualizaciones automáticas
-- Registro y modificación de habitaciones
-- Gestión de habitaciones dañadas
-- Auto guardado y recuperación desde backups
-- Temporizador para ocupación con contador en vivo
-- Compatible con Windows (.exe disponible)
+### Features 🚀
+- Room occupancy management
+- Availability and damage tracking
+- Automatic data saving and backup
+- Intuitive GUI with custom dialogs
+- Automatic refresh of room timers
+- Editable room data with double click
 
-## 🧰 Tecnologías
-
-- Python 3.12
+### Technologies Used 🛠️
+- Python 3.12+
 - PyQt5
-- JSON para almacenamiento local
-- PyInstaller para generación de ejecutables
 
-## 🖥️ Ejecutable para Windows
+### How to Run ❓
+1. Download or clone the repository.
+2. Run `Magdalena.py` using Python:
+```bash
+python Magdalena.py
+```
 
-Puedes descargar la última versión del ejecutable en la sección **[Releases](https://github.com/tu-usuario/repositorio/releases)**.
+### Executable Version 🖥 
+You can download the Windows executable from the [Releases](../../releases) section.
 
 ---
 
-### 🔧 Instalación Manual
+## Español 🇪🇸
 
+**Magdalena System** es una aplicación de gestión de habitaciones de hotel desarrollada en Python y PyQt5. Permite llevar un control visual e intuitivo de la disponibilidad, tipo, estado y tiempo restante de cada habitación.
+
+### Funcionalidades 🚀
+- Gestión de ocupación de habitaciones
+- Registro de disponibilidad y daños
+- Guardado automático y respaldo de datos
+- Interfaz amigable con cuadros de diálogo personalizados
+- Actualización automática de los temporizadores de las habitaciones
+- Edición rápida de datos con doble clic
+
+### Tecnologías Usadas 🛠️
+- Python 3.12+
+- PyQt5
+
+### Cómo Ejecutar ❓
+1. Descarga o clona el repositorio.
+2. Ejecuta `Magdalena.py` con Python:
 ```bash
-git clone https://github.com/tu-usuario/repositorio.git
-cd repositorio
-pip install -r requirements.txt
 python Magdalena.py
+```
+
+### Versión Ejecutable 🖥 
+Puedes descargar el ejecutable para Windows en la sección de [Releases](../../releases).
