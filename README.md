@@ -26,7 +26,7 @@ python Magdalena.py
 ### Versión Ejecutable 🖥 
 Puedes descargar el ejecutable para Windows en la sección de [Releases](../../releases).
 
-## Usuario y contraseña para poder ingresar al sistema 🔑
+### Usuario y contraseña para poder ingresar al sistema 🔑
 - Usuario: admin
 - Contraseña: 1234
 
@@ -56,7 +56,7 @@ python Magdalena.py
 ### Executable Version 🖥 
 You can download the Windows executable from the [Releases](../../releases) section.
 
-## Username and password to enter the system 🔑
+### Username and password to enter the system 🔑
 - Username: admin
 - Password: 1234
 
